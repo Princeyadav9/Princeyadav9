@@ -1,5 +1,5 @@
 # Hi, This is Prince Yadav
-I'm pursuing my Master's in Big Data Science at Queen Mary University of London, with a strong academic foundation from my Bachelor's in Statistics at University of Delhi.<br><br>🔍 I'm passionate about Data Science, Analytics, Machine Learning, and Artificial Intelligence, and I'm always curious about solving real-world problems using data-driven approaches.<br>💻 My work spans across:<br><br>Statistical modeling and inference<br><br>Predictive analytics and machine learning<br><br>Deep learning and NLP<br><br>Big data processing and visualization
+I'm pursuing my Master's in Big Data Science at Queen Mary University of London, with a strong academic foundation from my Bachelor's in Statistics at University of Delhi.<br><br>🔍 I'm passionate about Data Science, Analytics, Machine Learning, and Artificial Intelligence, and I'm always curious about solving real-world problems using data-driven approaches.<br>💻 My work spans across:<br>Statistical modeling and inference<br>Predictive analytics and machine learning<br>Deep learning and NLP<br>Big data processing and visualization
 
 
 ## 🌐 Let's Connect:
